@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThembaMtshelwane
-- 👀 I’m interested in improving my programming skills. Currently into working on 2D games like Centipede and coming up with different ones.
-- 🌱 I’m currently learning information engineering at uni but really open to learn from others and gain experience.
-- 💞️ I’m looking to collaborate on any 2D game projects.
-- 📫 You can email me on thembamm3@gmail.com
+- 👀 I’m interested in improving my programming skills. Currently working on web dev, specifically starting with frontend and working up to full-stack.
+- 🌱 I’m currently in my 4th year studying Information Engineering at uni.
+- I am open to learning from others and gaining experience.
+- 📫 You can email me at thembamm3@gmail.com.
