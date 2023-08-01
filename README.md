@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ThembaMtshelwane
-- 👀 I’m interested in improving my programming skills. Currently working on web dev, specifically starting with frontend and working up to full-stack.
-- 🌱 I’m currently in my 4th year studying Information Engineering at uni.
-- I am open to learning from others and gaining experience.
+- 👋 Hi, I’m @ThembaMM3
+- 🌱 I’m interested in improving my programming skills. Currently working on web dev, specifically starting with frontend and working up to full-stack.
+- :books: I’m currently in my 4th year studying Information Engineering at uni.
+-  :earth_africa: I am open to collaborating, learning and gaining experiences.
 - 📫 You can email me at thembamm3@gmail.com.
