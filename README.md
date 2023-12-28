@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThembaMM3
 - 🌱 I’m interested in improving my programming skills. Currently working on web dev, specifically starting with frontend and working up to full-stack and ultimately a Software Engineer.
 - 🎓 I’m an Information Engineering graduate from Wits.
--  :earth_africa: I am open to collaborating, learning and gaining experiences.
+-  🌍 I am open to collaborating, learning and gaining experiences.
 - 📫 You can email me at thembamm3@gmail.com.
