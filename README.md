@@ -3,3 +3,4 @@
 - 🎓 I’m an Information Engineering graduate from Wits.
 -  🌍 I am open to collaborating, learning and gaining experiences.
 - 📫 You can email me at thembamm3@gmail.com.
+- [My Portfolio](https://portfolio-thembamtshelwanes-projects.vercel.app/)
