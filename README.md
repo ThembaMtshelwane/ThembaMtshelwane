@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThembaMM3
-- 🌱 I’m interested in improving my programming skills. Currently working on web dev, specifically starting with frontend and working up to full-stack and ultimately a Software Engineer.
+- 🌱 I am a Front-end web developer at Tshimolongong. 
 - 🎓 I’m an Information Engineering graduate from Wits.
--  🌍 I am open to collaborating, learning and gaining experiences.
+-  🌍 I am open to collaborating, learning, and gaining new skills.
 - 📫 You can email me at thembamm3@gmail.com.
 - [My Portfolio](https://themba-mtshelwane.vercel.app/)
