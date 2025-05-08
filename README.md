@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThembaMM3
-- 🌱 I am a Front-end web developer at Tshimolongong. 
+- 🌱 I am a frontend and full-stack web developer at Tshimolongong. 
 - 🎓 I’m an Information Engineering graduate from Wits.
 -  🌍 I am open to collaborating, learning, and gaining new skills.
 - 📫 You can email me at thembamm3@gmail.com.
